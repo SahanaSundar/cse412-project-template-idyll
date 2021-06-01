@@ -175,7 +175,7 @@ Perhaps you would like to try including a large image in the background, with te
 [Scroller]
 
   [Graphic]
-    [TableauEmbed link:"https://public.tableau.com/views/412demo/Sheet1?" width:"100%" height:"600"/]
+    [TableauEmbed link:"https://public.tableau.com/views/GlobalHealthExpenditure/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
   [/Graphic]
 
   [Step]
